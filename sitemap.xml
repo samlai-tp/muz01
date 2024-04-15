@@ -1,47 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://samlai-tp.github.io/muz01/docs/doc1/index.html</loc>
-    <lastmod>2024-03-27T19:46:20+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://samlai-tp.github.io/muz01/docs/index.html</loc>
-    <lastmod>2024-03-27T19:46:20+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://samlai-tp.github.io/muz01/docs/doc2/index.html</loc>
-    <lastmod>2024-03-27T19:46:20+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://samlai-tp.github.io/muz01/docs/doc3/index.html</loc>
-    <lastmod>2024-03-27T19:46:20+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://samlai-tp.github.io/muz01/index.html</loc>
-    <lastmod>2024-03-27T19:46:20+08:00</lastmod>
-  </url>
-  <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9011/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9011/index.html</loc>
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9012/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9012/index.html</loc>
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9013/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9013/index.html</loc>
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9014/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9014/index.html</loc>
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9015/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9015/index.html</loc>
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9016/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9016/index.html</loc>
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
@@ -49,7 +29,11 @@
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/index.html</loc>
+    <lastmod>2024-03-25T12:00:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://samlai-tp.github.io/muz01/pages/index.html</loc>
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
@@ -69,15 +53,19 @@
     <lastmod>2024-03-25T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9009/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9009/index.html</loc>
     <lastmod>2024-01-26T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9010/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/pages/9010/index.html</loc>
     <lastmod>2024-01-26T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9001/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/list/9001/index.html</loc>
+    <lastmod>2024-01-18T12:10:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://samlai-tp.github.io/muz01/list/index.html</loc>
     <lastmod>2024-01-18T12:10:00+08:00</lastmod>
   </url>
   <url>
@@ -85,11 +73,11 @@
     <lastmod>2024-01-18T12:10:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9002/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/list/9002/index.html</loc>
     <lastmod>2024-01-18T12:00:00+08:00</lastmod>
   </url>
   <url>
-    <loc>https://samlai-tp.github.io/muz01/posts/9003/index.html</loc>
+    <loc>https://samlai-tp.github.io/muz01/list/9003/index.html</loc>
     <lastmod>2024-01-18T12:00:00+08:00</lastmod>
   </url>
   <url>
@@ -610,6 +598,10 @@
   </url>
   <url>
     <loc>https://samlai-tp.github.io/muz01/posts/956/index.html</loc>
+    <lastmod>2024-01-17T15:36:23+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://samlai-tp.github.io/muz01/posts/index.html</loc>
     <lastmod>2024-01-17T15:36:23+08:00</lastmod>
   </url>
   <url>
