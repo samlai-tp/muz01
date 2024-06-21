@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>主題參觀路線 on 故宮e覽 - 文物研習資料集</title>
-    <link>/categories/%E4%B8%BB%E9%A1%8C%E5%8F%83%E8%A7%80%E8%B7%AF%E7%B7%9A/</link>
+    <link>https://samlai-tp.github.io/muz01/categories/%E4%B8%BB%E9%A1%8C%E5%8F%83%E8%A7%80%E8%B7%AF%E7%B7%9A/</link>
     <description>Recent content in 主題參觀路線 on 故宮e覽 - 文物研習資料集</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 18 Jan 2024 12:10:00 +0800</lastBuildDate><atom:link href="/categories/%E4%B8%BB%E9%A1%8C%E5%8F%83%E8%A7%80%E8%B7%AF%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Jan 2024 12:10:00 +0800</lastBuildDate><atom:link href="https://samlai-tp.github.io/muz01/categories/%E4%B8%BB%E9%A1%8C%E5%8F%83%E8%A7%80%E8%B7%AF%E7%B7%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>9001〈尋寶趣〉</title>
-      <link>/posts/9001/</link>
+      <link>https://samlai-tp.github.io/muz01/posts/9001/</link>
       <pubDate>Thu, 18 Jan 2024 12:10:00 +0800</pubDate>
       
-      <guid>/posts/9001/</guid>
+      <guid>https://samlai-tp.github.io/muz01/posts/9001/</guid>
       <description>
         
           
@@ -45,10 +45,10 @@
     
     <item>
       <title>9002〈經典巡禮〉</title>
-      <link>/posts/9002/</link>
+      <link>https://samlai-tp.github.io/muz01/posts/9002/</link>
       <pubDate>Thu, 18 Jan 2024 12:00:00 +0800</pubDate>
       
-      <guid>/posts/9002/</guid>
+      <guid>https://samlai-tp.github.io/muz01/posts/9002/</guid>
       <description>
         
           
